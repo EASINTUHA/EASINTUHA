@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md. Easin</h1>
 <h3 align="justify">Hello there !I'm Md. Easin, an enthusiastic Computer Science and Engineering student at BAIUST, passionate about transforming ideas into innovative solutions. Currently, I'm sharpening my skills as a Flutter Developer during an enriching internship at ZenithhBD. Additionally, I'm on an exciting journey of learning Django at Phitron, expanding my horizons in web development. Recently, I successfully completed a comprehensive Web Development course at Programming Hero, further enhancing my expertise in crafting exceptional digital experiences. Join me as I embark on this captivating voyage of continuous learning and creation.</h3>
 
-<img align="right" alt="coding" width="450" height="300" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
+<img align="right" alt="coding" width="450" height="300" src="https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?rs=1&pid=ImgDetMain">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=easintuha&label=Profile%20views&color=0e75b6&style=flat" alt="easintuha" /> </p>
